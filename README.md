@@ -193,7 +193,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | Day |                                                Name                                                                 |
 | --- | :-----------------------------------------------------------------------------------------------------------------: |    
 | 148 |                       [Side NavBar](https://30daysofjs.netlify.app/148%20-%20Side%20NavBar/)                        |
-| 149 |                 [Snake Gam Voice](https://30daysofjs.netlify.app/149%20-%20Snake%20Game%20Voice/)                  |
+| 149 |                 [Snake Game Voice](https://30daysofjs.netlify.app/149%20-%20Snake%20Game%20Voice/)                  |
 | 150 |                [Snowy Particle Js](https://30daysofjs.netlify.app/150%20-%20Snowy%20Particle%20Js/)                 |
 | 151 |               [Type Writer Effect](https://30daysofjs.netlify.app/151%20-%20Type%20Writer%20Effect/)                |
 | 152 |                    [Voice Recorder](https://30daysofjs.netlify.app/152%20-%20Voice%20Recorder/)                     |
